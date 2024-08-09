@@ -26,3 +26,9 @@ body {
     justify-content: space-evenly;
     min-height: 100vh;
 }
+
+.information h1 {
+    font-size: 35px;
+    color: #fff;
+
+}
