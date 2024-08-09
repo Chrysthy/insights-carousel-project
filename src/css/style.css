@@ -50,3 +50,9 @@ body {
     overflow: auto;
     padding-right: 15px;
 }
+
+.carousel-button {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
