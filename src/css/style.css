@@ -28,7 +28,10 @@ body {
 }
 
 .information h1 {
+    font-family: 'Name';
     font-size: 35px;
+    letter-spacing: 8px;
+
     color: #fff;
     margin-bottom: 80px;
 }
@@ -36,4 +39,14 @@ body {
 @font-face {
     font-family: 'Name';
     src: url(../fonts/name);
+}
+
+.information .description {
+    width: 49%;
+    font-size: 24px;
+    color: #fff;
+    line-height: 40px;
+    height: 300px;
+    overflow: auto;
+    padding-right: 15px;
 }
