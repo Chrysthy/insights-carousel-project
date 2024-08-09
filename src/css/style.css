@@ -59,7 +59,7 @@ body {
     gap: 20px;
 }
 
-.carousel-button .button {
+.carousel-button .btn {
     background-color: #fff;
     width: 15px;
     height: 15px;
@@ -71,6 +71,6 @@ body {
     cursor: pointer;
 }
 
-.carousel-button .button.selected {
+.carousel-button .btn.selected {
     background-color: #1d8346;
 }
