@@ -15,3 +15,14 @@ body {
 .information {
     display: none;
 }
+
+.information.active {
+    display: block;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-height: 100vh;
+}
