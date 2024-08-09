@@ -30,5 +30,10 @@ body {
 .information h1 {
     font-size: 35px;
     color: #fff;
+    margin-bottom: 80px;
+}
 
+@font-face {
+    font-family: 'Name';
+    src: url(../fonts/name);
 }
