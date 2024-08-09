@@ -74,3 +74,14 @@ body {
 .carousel-button .btn.selected {
     background-color: #1d8346;
 }
+
+.img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    display: none;
+}
+
+.img.active {
+    display: block;
+}
