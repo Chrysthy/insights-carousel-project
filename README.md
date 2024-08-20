@@ -25,3 +25,8 @@
 - JavaScript;
 - Git e GitHub.
 
+## ✨ Features
+
+- Page Integration;
+- Responsive layout;
+- Content Carousel.
