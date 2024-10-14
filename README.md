@@ -1,4 +1,4 @@
-<h1 align="center"> Content Carousel Project </h1> 
+<h1 align="center"> Insights Carousel Projectt </h1> 
 
 <p align="center">Project created during the  <a href="https://devemdobro.com/matriculas-abertas/">DevQuest</a> event.
 
