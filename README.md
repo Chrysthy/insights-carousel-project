@@ -59,7 +59,7 @@ Here are the resources that were helpful for this project:
 - [Google Images Photo 5](https://imagens.mdig.com.br/gente/vicio_02.jpg)
 - [Google Images Photo 6](https://zensleep.com.br/wp-content/uploads/2024/01/post_insonia_900x600.jpg)
 - [Google Images Photo 7](https://gruposulnews.com.br/wp-content/uploads/2024/02/transtorno-alimentar-compressed.jpg)
-- [Google Images Photo 8]([https://www.google.com/search?q=example+photo](https://blog.onespa.com.br/wp-content/uploads/2016/04/pensar-gordo1.jpg))
+- [Google Images Photo 8]([https://www.google.com/search?q=example+photo](https://blog.onespa.com.br/wp-content/uploads/2016/04/pensar-gordo1.jpg)
 - [Google Images Photo 9](https://www.psicologaadrianaklein.com.br/site/wp-content/uploads/2016/08/destaque-371042-luto-1.jpg)
 - [Google Images Photo 10](https://img.freepik.com/fotos-premium/uma-pessoa-em-frente-a-um-espelho-quebrado-refletindo-uma-imagem-distorcida-e-fragmentada-simbolizando-a-complexidade-e-a-natureza-subjetiva-das-emocoes_802668-7095.jpg)
 
