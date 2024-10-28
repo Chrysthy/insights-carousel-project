@@ -54,9 +54,9 @@
 Here are the resources that were helpful for this project:
 - [Google Images Photo 1](https://www.brasilnaitalia.net/wp-content/uploads/2022/01/duvidas-sobre-italia-700x544.jpg)
 - [Google Images Photo 2](https://mulheremforma.com.br/wp-content/uploads/2023/06/roer-unha-jpg.webp)
-- [Google Images Photo 3](https://www.google.com/search?q=example+photo)
-- [Google Images Photo 4](https://www.google.com/search?q=example+photo)
-- [Google Images Photo 5](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 3](https://revistamar.com/wp-content/uploads/2023/01/0132-revista-amar.jpg)
+- [Google Images Photo 4](https://drconsulta.com/conteudo/wp-content/uploads/2019/10/iStock-491609385-1024x683.jpg)
+- [Google Images Photo 5](https://imagens.mdig.com.br/gente/vicio_02.jpg)
 - [Google Images Photo 6](https://www.google.com/search?q=example+photo)
 
 <br>
