@@ -52,8 +52,8 @@
 
 ## 📚 Resources
 Here are the resources that were helpful for this project:
-- [Google Images Photo 1](https://www.google.com/search?q=example+photo)
-- [Google Images Photo 2](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 1](https://www.brasilnaitalia.net/wp-content/uploads/2022/01/duvidas-sobre-italia-700x544.jpg)
+- [Google Images Photo 2](https://mulheremforma.com.br/wp-content/uploads/2023/06/roer-unha-jpg.webp)
 - [Google Images Photo 3](https://www.google.com/search?q=example+photo)
 - [Google Images Photo 4](https://www.google.com/search?q=example+photo)
 - [Google Images Photo 5](https://www.google.com/search?q=example+photo)
