@@ -7,7 +7,8 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-resources">Resources</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-support">Support</a> 
 </p>
@@ -46,6 +47,17 @@
 ## 💻 Project
 
 - The website was created to practice HTML, CSS and JavaScript skills.
+
+<br>
+
+## 📚 Resources
+Here are the resources that were helpful for this project:
+- [Google Images Photo 1](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 2](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 3](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 4](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 5](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 6](https://www.google.com/search?q=example+photo)
 
 <br>
 
