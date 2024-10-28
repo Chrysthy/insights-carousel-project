@@ -19,6 +19,7 @@
   <img alt="Imagem do Projeto" src=".github/imagem-do-projeto.PNG" width="90%">
 </p>
 
+<br>
 
 ## 🛠 Technologies
 
@@ -27,15 +28,21 @@
 - JavaScript;
 - Git e GitHub.
 
+<br>
+
 ## ✨ Features
 
 - Page Integration;
 - Responsive layout;
 - Content Carousel.
 
+<br>
+
 ## 💻 Project
 
 - The website was created to practice HTML, CSS and JavaScript skills.
+
+<br>
 
 ## 📜 License
 
