@@ -57,7 +57,10 @@ Here are the resources that were helpful for this project:
 - [Google Images Photo 3](https://revistamar.com/wp-content/uploads/2023/01/0132-revista-amar.jpg)
 - [Google Images Photo 4](https://drconsulta.com/conteudo/wp-content/uploads/2019/10/iStock-491609385-1024x683.jpg)
 - [Google Images Photo 5](https://imagens.mdig.com.br/gente/vicio_02.jpg)
-- [Google Images Photo 6](https://www.google.com/search?q=example+photo)
+- [Google Images Photo 6](https://zensleep.com.br/wp-content/uploads/2024/01/post_insonia_900x600.jpg)
+- [Google Images Photo 7](https://gruposulnews.com.br/wp-content/uploads/2024/02/transtorno-alimentar-compressed.jpg)
+- [Google Images Photo 8]([https://www.google.com/search?q=example+photo](https://blog.onespa.com.br/wp-content/uploads/2016/04/pensar-gordo1.jpg))
+- [Google Images Photo 9](https://www.google.com/search?q=example+photo)
 
 <br>
 
