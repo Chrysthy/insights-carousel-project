@@ -40,7 +40,7 @@
 
 - Page Integration;
 - Responsive layout;
-- Content Carousel.
+- Carousel Content.
 
 <br>
 
